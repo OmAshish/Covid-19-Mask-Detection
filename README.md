@@ -14,4 +14,6 @@ I hope you enjoy the code and stay safe at home. 🏘
 
 Please do leave a star if you like it!! 💥💥💥
 
+# Licensed & Copyright
+@Om Ashish Mishra
 Licensed under the [MIT LICENSE](LICENSE)
