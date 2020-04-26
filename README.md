@@ -4,3 +4,6 @@ In this rise of covid 19, I have made a mask recognization for the security of p
 
 We should wear a mask in the rise of the of the covid-19.
 
+![IMAGE](https://user-images.githubusercontent.com/23039235/80299529-c4913300-87b2-11ea-9471-3ab2e6b3a6ce.JPG)
+
+![IMAGE](https://user-images.githubusercontent.com/23039235/80299529-c4913300-87b2-11ea-9471-3ab2e6b3a6ce.JPG)
