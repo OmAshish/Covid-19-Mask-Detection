@@ -9,3 +9,7 @@ We should wear a mask in the rise of the of the covid-19.
 
 # No Mask 🤢
 ![IMAGE](https://user-images.githubusercontent.com/23039235/80299533-c9ee7d80-87b2-11ea-965c-2fdd5b51e6a2.JPG)
+
+I hope you enjoy the code and stay safe at home. 🏘
+
+Please do leave a star if you like it!! 💥💥💥
