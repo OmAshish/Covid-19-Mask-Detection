@@ -13,3 +13,5 @@ We should wear a mask in the rise of the of the covid-19.
 I hope you enjoy the code and stay safe at home. 🏘
 
 Please do leave a star if you like it!! 💥💥💥
+
+Licensed under the [MIT LICENSE](LICENSE)
